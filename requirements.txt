@@ -1,0 +1,9 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Headless-browser fallback for JavaScript-rendered / bot-blocked pages
+# (CPTA, FMS, Eventbrite, etc.). The browser fallback runs automatically when
+# this package is importable. After `pip install -r`, also run
+# `python3 -m playwright install chromium` to download the browser binary
+# (~150 MB, one-time) — CI does this in a dedicated step.
+playwright>=1.40.0

@@ -1,0 +1,353 @@
+# CEU Course Changes — 2026-05-11
+
+
+## 🟢 Newly listed (195)
+
+- **2026-05-16** — Improving Functional Strategies in Individuals with Neurologic Diagnoses Across the Continuum of Care *(Long Beach South Bay District)* — Long Beach, CA
+  - https://lbsbcpta.com/payment/p/courseregistrationlbsb-f9pse
+- **2026-05-16** — FRC® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1056
+- **2026-05-16** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-05-16** — Evaluation and Treatment of the Lumbar Spine, Pelvis & Hip: An Evidence-Based Approach in Orthopedic Manual Physical Therapy *(John Seivert, PT, DPT, OCS, FAAOMPT)* — Sacramento, CA
+- **2026-05-20** — Dementia Deep Dive: Make Care Make Sense *(Ensign Services, Inc.)* — San Diego, CA
+  - https://FlagshipTherapy.com/events/courses
+- **2026-05-27** — Motor Learning Applied to the Upper Extremity *(Nexus Motion)* — Webinar
+  - https://learnmovementsystem.com/2026-fw5
+- **2026-05-30** — FRA® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1057
+- **2026-05-30** — Bodily Relearning 2-Day Course *(San Jose District)* — Monterey, CA
+  - https://docs.google.com/forms/d/e/1FAIpQLSfuunyOIgs0hBacgELHU3rKZjg606uFztLQzXcLRsSn1qHImA/viewform?usp=header
+- **2026-06-13** — FR® Spine Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1063
+- **2026-06-13** — Non-Therapist FR® Spine Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1064
+- **2026-06-13** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-06-15** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org
+- **2026-06-18** — Applied Mindfulness for PTs *(Nexus Physical Therapy and Wellness, Inc.)* — Ukiah, CA
+  - https://thenexusway.com/ptceus1
+- **2026-06-27** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-06-27** — Kinstretch® Level 1 Certification Seminar (WORLDWIDE) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1059
+- **2026-07-06** — PNF Long Term Course *(Kaiser Foundation Rehabilitation Center)* — Vallejo, CA
+  - https://ipnfa.org
+- **2026-07-18** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org
+- **2026-07-25** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-07-27** — Dynamic Neuromuscular Stabilization Scoliosis Therapy Training *(Movement Links, Inc.)* — Pasadena, CA
+  - https://movementlinks.com
+- **2026-07-30** — Dynamic Neuromuscular Stabilization Pediatrics Part 2 *(Movement Links, Inc.)* — Pasadena, CA
+  - https://movementlinks.com
+- **2026-08-07** — The Whole Health Framework: Practice Tools for Effectively Treating Pain *(Holistic Health PT)* — Watsonville, CA
+  - https://holistichealthpt.com
+- **2026-08-10** — Applied Mindfulness for PTs *(Nexus Physical Therapy and Wellness, Inc.)* — Big Sur, CA
+  - https://thenexusway.com/ptceus1
+- **2026-08-22** — Movement Link Series *(Movement Links, Inc.)* — Hybrid (Online + San Francisco, CA)
+  - https://movementlinks.com
+- **2026-08-22** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-08-31** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org
+- **2026-09-12** — Enhanced Recovery After Delivery® Grow an OB Rehab Program in the Hospital and Home after Birth *(Enhanced Recovery and Wellness)* — Hybrid (Online + Onsite)
+  - https://enhancedrecoveryafterdelivery.com
+- **2026-09-12** — Non-Therapist FR® Upper Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1071
+- **2026-09-12** — FR® Upper Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1070
+- **2026-09-19** — CPTA Annual Conference 2026 — The Future of Movement *(California Physical Therapy Association (CPTA))* — DoubleTree by Hilton, San Jose, CA
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-09-26** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-10-03** — FRS Internal Strength Model® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1074
+- **2026-10-03** — Non-Therapist FR® Lower Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1073
+- **2026-10-03** — FR® Lower Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1072
+- **2026-10-06** — Musculoskeletal Ultrasound Training: Elbow, Knee, Ankle, and JADE Protocol *(UC San Diego Health)* — San Diego, CA
+  - https://hem-onc.ucsd.edu/education/cme/mskus.html
+- **2026-10-07** — Musculoskeletal Ultrasound Training: Hip, Shoulder, and Spine *(UC San Diego Health)* — San Diego, CA
+  - https://hem-onc.ucsd.edu/education/cme/mskus.html
+- **2026-10-08** — Imaging for Musculoskeletal Pathologies *(UC San Diego Health)* — San Diego, CA
+  - https://hem-onc.ucsd.edu/education/cme/mskus.html
+- **2026-10-10** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-10-16** — Small Baby Class *(Children's Hospital Los Angeles)* — Los Angeles, CA
+- **2026-10-31** — KINSTRETCH® LEVEL II Certification (WORLDWIDE) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1068
+- **2026-10-31** — TMR Level 7 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **2026-11-07** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-11-09** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org
+- **2026-11-21** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2026-12-07** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org
+- **2026-12-10** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)* — Webinar
+  - https://pwr4life.org/pwr-workshops/therapist-registration
+- **2027-03-26** — Building for the Future - Comprehensive Evaluation and Interview to Address the Equipment Needs of the Pediatric Client *(Abilities International Accessibility Conference)* — Long Beach, CA
+  - https://abilitiesconference.com/register-la
+- **TBD** — Improving Functional Performance of Medically Complex Persons *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — The Aging Skin: Understanding Skin Changes that Make Our Elderly Clients More Susceptible to Breakdown, Common Areas of Wound Development, and Stages of Pressure Injuries *(Permobile Academy)* — Online
+- **TBD** — Spinal Asymmetry and Scoliosis Essentials *(Pilates Therapeutics)* — Online
+  - https://pilatestherapeutics.com/course/spinalasymmetry-
+- **TBD** — Peds 1: Treatment of Bowel and Bladder Disorders: Evaluation and Treatment of Dysfunctional Voiding, Bedwetting, and Constipation *(DSD PT Consulting, PLCC)* — Online
+  - https://kidsbowelbladder.com
+- **TBD** — The Pelvic Floor, the Diaphra, the Core and their Role in Postural Development in Children *(DSD Consulting, PLCC)* — Online
+  - https://kidsbowelbladder.com
+- **TBD** — Concussion Management II *(The American Institute of Balance)* — Online
+  - https://dizzy.com/workshops
+- **TBD** — TMR Intro Web Class *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Introduction to Shoulder Dysfunctions *(International Academy of Orthopedic Medicine)* — Online
+- **TBD** — Mindful Care: Therapy Implementation *(Therapy Management Corporation)* — Online
+  - https://therapymgmt.docebosaas.com/learn/courses/410/mindful-care/lessons
+- **TBD** — Torticollis, Tongue Tie, and Infant Feeding *(The Lactation OT LLC)* — Online
+  - https://lactationOT.com/tots
+- **TBD** — Wheelchair Seating and Positioning Evaluation Tools *(Permobile Academy)* — Online
+- **TBD** — General Orthopedic Guidelines *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Brain Injury 101 *(Select Medical)* — Online
+- **TBD** — Advanced Concepts in Running Injuries *(Montana Running Lab, LLC)* — Online
+  - https://montanarunninglab.com/running-injuries-online-course
+- **TBD** — Joint Replacement Rehabilitation *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — TMR Level 5 *(Total Motion Release Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Physical Therapy and Comprehensive Care *(University of Nebraska Medical Center)* — Online
+  - https://partnersprn.org
+- **TBD** — A Comprehensive View of Alzheimer's Disease *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — webFCE Health Risk Assessment Certification Course *(webFCE)* — Online
+  - https://www.webfce.com
+- **TBD** — Understanding the Geriatric Population: Risks Associated with Prolonged Sitting and Goals of a Therapist *(Permobile Academy)* — Online
+- **TBD** — Peds Level 2: Advanced Pedicatric Bowel and Bladder Disorders: Evaluation and Treatment of Complex Bowel and Bladder Disorders Using a Whole-Body Approach *(DSD PT Consulting, PLCC)* — Online
+  - https://kidsbowelbladder.com
+- **TBD** — Functional Capacity Evaluation Certification Course *(webFCE)* — Online
+  - https://webfce.com
+- **TBD** — California Early Detection of CP and Hammersmith Infant Neurological Exam Training *(Play ExploreLearn Therapy and Toys, LLC)* — Los Angeles, CA
+  - https://steps2home.org
+- **TBD** — Bridge the Gap Optimal Knee Health *(KimeU by Kime Performance)* — Online
+  - https://kimeperformance.thinkific.com/courses/bridge-the-gap-optimal-knee-health
+- **TBD** — TMR Tots Level 3 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — CA AB 1172 Behavior Training *(LearnScaped LLC)* — Online
+  - https://learnscaped.com
+- **TBD** — Cardiovascular Disease and Mobility: Disease Process *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Pharmacology Reference for Therapists *(Select Medical)* — Online
+- **TBD** — Performing Arts Enhancements Essentials-1 *(Pilates Tehrapeutics)* — Online
+- **TBD** — Small Baby Care Specialist® Program *(EngageGrowThrive)* — Online
+  - https://engagegrowthrive.com
+- **TBD** — P.S. Understanding the Psychosocial Aspects of Persistent Pain *(Megan Steele, PT, DPT, PhD)* — Online
+- **TBD** — NPI-Certified Posture Specialist *(National Posture Institute)* — Online
+  - https://npionline.org
+- **TBD** — TMR Level 4 *(Total Motion Release Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Vestibular Rehabilitation Certification Renewal *(The American Institue of Balance)* — Online
+  - https://dizzy.com
+- **TBD** — Professional Integrity in the Age of AI: Ethics, Laws, and Regulatory Compliance for Health Educators and Clinicians *(Brainsmith, LLC)* — Online
+  - https://brainsmith.thinkific.com/products/courses/self-study-ai-ethics
+- **TBD** — Movement System Syndromes of Lumbar Spine *(Nexus Motion)* — Online
+  - https://learnmovementsystem.com/2025lumbarspine
+- **TBD** — Senior Home Safety Specialist *(Age Safe Inc.)* — Online
+  - https://agesafeamerica.com/certifications
+- **TBD** — Identifying Manual Wheelchair Best Practice in the Continuum of Care *(Permobil Academy)* — Online
+  - https://edu.permobil.com
+- **TBD** — The Wheelchair Evaluation: Identifying Deficits, Seeking Solutions, Finding Function *(Permobil Academy)* — Online
+  - https://edu.permobil.com
+- **TBD** — EduCross Clinical Diploma in Physical Therapy *(EduCross International)* — Online
+  - https://educross.org
+- **TBD** — Three Extrinsic Factors of Wound Development: Taking a Deeper Look *(Permobile Academy)* — Online
+- **TBD** — TMR Level 3 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Physical Therapy in the Care of Persons with Bleeding Disorders *(University of Nebraska Medical Center)* — Online
+  - https://partnersprn.org
+- **TBD** — Applying Movement System Syndroms to Gait & Running Analysis *(Nexus Motion)* — Online
+- **TBD** — Low Back Pain: Evaluation and Treatment *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Industrial Ergonomics Evaluator Certification Course *(Occupuro)* — Online
+  - https://occupro.net/education/offerings/industrial-ergonomics
+- **TBD** — Musculoskeletal Ultrasound Training for Arthritic Conditions: Ankle, Knee, and Elbow-Online Course *(Annette Von Drygalski)* — Online
+  - https://ucsd.cloud-cme.com/course
+- **TBD** — Lynda Huey's Aquatic Rehab Online Course (AROC) *(Huey's Athletic Network)* — Online
+  - https://lyndahuey.com/course-pt
+- **TBD** — Determining Medical Neeed for Adult Manual Wheelchairs *(The Periscope Group)* — Online
+  - https://periscope365.com
+- **TBD** — Survivor Gap Essentials 1 *(Pilates Tehrapeutics)* — Online
+- **TBD** — Gait Rehabilitation - Core Concepts and Treatment Strategies *(Mission Gait Foundation)* — Online
+  - https://missiongait.org
+- **TBD** — Kinesiopathology of Shoulder and Neck: Why Movement Matters! *(Nexus Motion)* — Online
+  - https://learnmovementsystems.com/2026-fw1
+- **TBD** — TMR Intro - Basic Concepts of Total Motion Release *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Spinal Cord Injury 201 *(Select Medical)* — Online
+- **TBD** — Bridge the Gap Optimal Shoulder Health *(KimeU by Kime Performance)* — Online
+  - https://kimeperformance.thinkific.com/courses/bridge-the-gap-optimal-shoulder-health
+- **TBD** — Life After Illness, Injury or Disability: Promoting Pychological Adjustment & Quality of Life *(Select Medical)* — Online
+- **TBD** — Wheelchair Interventions 101: The What, the Why, and the How *(Permobil Academy)* — Online
+  - https://edu.permobil.com
+- **TBD** — Rock Rehab Online Course Series *(The Climbing Doctor)* — Online
+- **TBD** — Brain Injury 201 *(Select Medical)* — Online
+- **TBD** — Introduction to Stroke 101 *(Select Medical)* — Online
+- **TBD** — Assessing and Treating Patients with Low Back Pain Self-Study *(PT Solutions Physical Therapy)* — Online
+- **TBD** — Emergency Medical Responder Certification for the Sport Clinician *(Ann DeGrey)* — Online
+  - https://dptann.com
+- **TBD** — Pelvic Floor Consideration for Lactation *(The Lacation OT)* — Online
+  - https://lactationOT.com
+- **TBD** — Functional Capacity Evaluation Certification Course *(OccuPro)* — Online
+  - https://occupro.net
+- **TBD** — Cardiovascular Disease and Mobility: The Heart *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — TMR Level 4 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Choosing the Apporpriate Wheelchair Back Support *(Permobile Academy)* — Online
+- **TBD** — Evidence in Action: A Knowledge Translation Course 2026 *(Rehab RoundUP)* — Online
+  - https://neuroevidenceinaction.org
+- **TBD** — Hybrid Vestibular Rehabilitation Certification *(The American Institute of Balance)* — Online
+  - https://dizzy.com
+- **TBD** — Neuromuscular Activation Patterns Affecting the Shoulder Girdle *(Nexus Motion)* — Online
+  - https://learnmovementsystem.com/2026-fw4
+- **TBD** — MFY Injury Prevention Certification: Research Based Asana to Heal Your Community *(Med Flow Yoga)* — Online
+  - https://medflowyoga.com
+- **TBD** — Brain Injury 301 *(Select Medical)* — Online
+- **TBD** — Clinical Running Essentials *(Christopher Johnson PT)* — Online
+  - https://christopherjohnsonpt.com
+- **TBD** — Exercise Prescription for the Acute Care and Inpatient Therapist *(PT Solutions Physical Therapy)* — Online
+- **TBD** — High-Intensity Rehabilitation in Medically Complex Populations *(University of Colorado School of Medicine Physical Therapy Program)* — Online
+- **TBD** — Gait Rehabilitation Specialist (GRS) Certification *(Mission Gait Foundation)* — Online
+  - https://missiongait.org
+- **TBD** — Reducing Potentially Preventable Hospitalizations *(Humana inc./CenterWell Home Health)* — Online
+- **TBD** — Vestibular Rehabilitation II Certification *(The American Institute of Balance)* — Online
+  - https://dizzy.com
+- **TBD** — Limb Loss 101 *(Select Medical)* — Online
+- **TBD** — Enhanced Recovery After Delivery® Grow an OB Rehab Program in the Hospital and Home after Birth *(Enhanced Recovery and Wellness)* — Online
+  - https://enhancedrecoveryafterdelivery.com
+- **TBD** — Cardiovascular Disease and Mobility: Therapeutic Impact *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — A Positive Spin on Dizziness 2.0 *(Re+Active Physical Therapy and Wellness)* — Online
+  - https://reactiveeducation.com
+- **TBD** — Lymphedema Therapy Certification *(Klose Training)* — Online
+  - https://klosetraining.com/course/in-classroom/lymphedema-certification
+- **TBD** — Balance and Vestibular Rehabilitation *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — TMR Tots Level 1 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Applications of Orthobiological Hacker for the Medical Professional *(Torrentia Medical Education)* — Online
+  - https://torrentia.com
+- **TBD** — Multidisciplinary Fall Risk Management *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Safe Strides: A Systems-Based Approach to Fall Risk Management *(Humana, Inc.)* — Online
+- **TBD** — Clinical Management of the Rock Climbing Athlete: Finger Injuries *(The Climb Clinic, LLC)* — Online
+  - https://www.theclimbclinic.com/cmrca-finger-injuries
+- **TBD** — Vestibular Rehabilitation & Concussion Certification Renewal *(The American Institue of Balance)* — Online
+  - https://dizzy.com
+- **TBD** — TMR Level 7 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Total Knee Arthroplasty Standards of Practice *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Motor Learning Applied to the Upper Extremity *(Nexus Motion)* — Online
+  - https://learnmovementsystem.com/2026-fw5
+- **TBD** — Spinal Cord Injury 101 *(Select Medical)* — Online
+- **TBD** — Complex Case Masterclass *(Re+Active Physical Therapy and Wellness)* — Online
+  - https://reactiveeducation.com
+- **TBD** — Clinical Taping Certification Level I *(Weavo)* — Sacramento, CA
+  - https://weavo.us/certifications
+- **TBD** — Duchenne Musuclare Dystrophy: Current Understanding and Treatment *(CureDuchenne)* — Online
+  - https://cureduchenne.com
+- **TBD** — PRIME Wound Care *(Humana inc./CenterWell Home Health)* — Online
+- **TBD** — The Intersections of Burnout, Self-Care, and Social Justice *(The Self-Care Institute)* — Online
+  - https://selfcareinstitute.com/courses/the-intersections-of-burnout-self-care-and-social-justice
+- **TBD** — MWC Configuration & Power Assist - Tools to Maximize Outcomes *(Permobil Academy)* — Online
+  - https://edu.permobil.com
+- **TBD** — TMR Level 5 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Wheelchair Interventions: Putting it All Together *(Permobil Academy)* — Online
+  - https://edu.permobil.com
+- **TBD** — Cardiac Disease and Mobility: Therapeutic Impact *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Shoulder Biomechanics: Relative Flexibility and Stiffness *(Nexus Motion)* — Online
+  - https://learnmovementsystems.com/2026-fw3
+- **TBD** — Abnormal Posture in the Wheelchair System: Identifying the Cause *(Permobile Academy)* — Online
+- **TBD** — Challenges to Seating and Positioning: Common Seating Misconceptions that Get in the Way *(Permobile Academy)* — Online
+- **TBD** — Musculoskeletal Ultrasound Training in Hemophilia Online Program *(Annette Von Drygalski)* — Online
+- **TBD** — Keeping Hearts at Home: Oreientaion and New Hire *(Humana inc./CenterWell Home Health)* — Online
+- **TBD** — Accommodate or Correct? A Comparison of What You are Trying to Accomplish When the Postural Abnormality is Reducible Versus Non-reducible *(Permobile Academy)* — Online
+- **TBD** — Clinical Driver Evaluations *(Clinical Driver Evaluations)* — Online
+  - https://code-ccde.org
+- **TBD** — Tongue Tie, Breastfeeding, and the Lactation Savvy Therapist *(The Lactation OT LLC)* — Online
+  - https://lactationOT.com/tots
+- **TBD** — When the Feet Hit the Ground…Everything Changes *(When the Feet Hit the Ground)* — Online
+  - https://whenthefeethittheground.com
+- **TBD** — Bodywork for Babies *(Lauren Brim)* — Online
+  - https://bodyworkforbabiesint.com
+- **TBD** — Tendinopathy Rehab: Structured Frameworks and Practical Stategies *(TendinopathyRehab)* — Online
+  - https://tendinopathyrehab.com
+- **TBD** — Understanding Hemophilia *(University of Nebraska)* — Online
+  - https://partnersprn.org
+- **TBD** — Stroke 201 *(Select Medical)* — Online
+- **TBD** — PRIME Wounds for Therapy *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Cardiac Rehabilitation Principles *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Certified Office Ergonomics Specialist (COESp) *(Worksite International, Inc.)* — Online
+  - https://worksiteinternational.com
+- **TBD** — Pressure, Posture & Performance: An Approach to Pelvic Floor Dysfunction *(Kathe Wallace Physical Therapy dba Pelvic Resources)* — Online
+  - https://teaching.kathewallace.com/p/pppp-in-pfd-2022
+- **TBD** — The Hip Joint - Arthroplasty and Fracture *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Fall Risk Assessment Certification Course *(webFCE)* — Online
+  - https://webfce.com
+- **TBD** — Medical 2 Online Certification Course *(Titleist Performance Institute)* — Online
+  - https://mytpi.com
+- **TBD** — Positive Spin On Diziness *(Re+Active Physical Therapy and Wellness)* — Online
+  - https://reactiveeducation.com
+- **TBD** — Choosing the Apporpriate Wheelchair System for the Resident with Cognitive Impairment *(Permobile Academy)* — Online
+- **TBD** — Daily Difference with Diabetes *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Making Power Wheelchairs Smarter: Exploring the Continuum of SMART Technology *(LUCI Mobility)* — Webinar
+- **TBD** — Evaluating and Treating the Arthritic Joint *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Foot Management Essentials-1 *(Pilates Tehrapeutics)* — Online
+- **TBD** — Vestibular Rehabilitation II Certification Renewal *(The American Institue of Balance)* — Online
+  - https://dizzy.com
+- **TBD** — LGBT Population in LTC: Understanding Needs *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Seating and Positioning in Long Term Care: Why the Long Term Care Therapist MUST be Knowledeable in the Principles of Seating and Positioning *(Permobile Academy)* — Online
+- **TBD** — A Comprehensive View of Dementia *(Healthcare Academy)* — Online
+  - https://healthcareacademy.com
+- **TBD** — Kaatsu and Traditional BFR *(Kaatsu Education)* — Online
+  - https://kaatsu.com/account/login?return_url=/a/members
+- **TBD** — Identifying Power Wheelchair Best Practice in the Continuum of Care *(Permobil Academy)* — Online
+  - https://edu.permobil.com
+- **TBD** — TMR Level 6 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — L1 Online Certification Course *(Titleist Performance Institute)* — Online
+  - https://mytpi.com
+- **TBD** — Skin Protection Cushions:Understanding the Principles of Immersion and Envelopment vs Offloading and the Importance of Cushion Medium and Geometry. *(Permobile Academy)* — Online
+- **TBD** — Pelvic Floor Support Systems: Advanced Anatomy, Assessment & Treatment for Prolapse & Postnatal Clients *(Kathe Wallace Physical Therapy dba Pelvic Resources)* — Online
+  - https://teaching.kathewallace.com/p/2021-22-pf-support-systems
+- **TBD** — Rehab of Common Shoulder Procedures *(Humana, Inc.)* — Online
+  - https://humana.com
+- **TBD** — Wheelchair Postural Supports: How to Optimize Stability and Alignment in a Wheelchair System *(Permobile Academy)* — Online
+- **TBD** — Stroke 101 *(Select Medical)* — Online
+- **TBD** — TMR Level 2 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Clinical Acuman - Deppression *(Humana inc./CenterWell Home Health)* — Online
+- **TBD** — Bridge the Gap Optimal Spine Health *(KimeU by Kime Performance)* — Online
+  - https://kimeperformance.thinkific.com/courses/bridge-the-gap-optimal-spine-health
+- **TBD** — Hybrid Vestibular Rehabilitation & Concussion Certification *(The American Institute of Balance)* — Online
+  - https://dizzy.com
+- **TBD** — TMR Tots Level 2 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — TMR Level 1 *(Total Motion Release (TMR) Seminars)* — Online
+  - https://totalmotionrelease.com
+- **TBD** — Loaded manuel Therapy Lower and Upper Extremity Onlinek Courses *(Loaded Manual Therapy)* — Online
+  - https://loadedmanueltherapy.com

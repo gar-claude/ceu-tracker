@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local virtualenv / sandbox
+.venv/
+_backups/
+_funnel.py
+_proof_fms.py
+debug/
+
+# macOS
+.DS_Store
+
+# Claude local settings
+.claude/settings.local.json

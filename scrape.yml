@@ -1,0 +1,42 @@
+name: Monthly CEU Scrape
+
+on:
+  schedule:
+    - cron: '0 7 1 * *'   # 7:00 AM UTC on the 1st of every month
+  workflow_dispatch:        # also lets you trigger it manually from GitHub
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # needed to push the updated index.html
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Install Playwright browser
+        run: python -m playwright install chromium
+
+      - name: Run scraper
+        run: python ceu_scraper.py
+
+      - name: Rebuild index.html with fresh data
+        run: python rebuild_courses.py
+
+      - name: Commit and push updated files
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "github-actions[bot]"
+          git add index.html courses_state.json courses_current.md changes.md scraper.log
+          git commit -m "auto: monthly scrape $(date +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
