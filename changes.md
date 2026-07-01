@@ -1,252 +1,68 @@
-# CEU Course Changes — 2026-06-12
+# CEU Course Changes — 2026-07-01
 
 
-## 🟢 Newly listed (19)
+## 🟢 Newly listed (23)
 
-- **2026-06-13** — The World’s Game: Elite Soccer Athlete Soft Tissue Injury Rehabilitation *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://web.cvent.com/event/18867c4c-79bf-483c-bb3f-60995e120ac1/websitePage:8c7824ea-808e-4723-8496-195f7370f21d
-- **2026-06-20** — Provoking the Future: Rethinking Musculoskeletal Rehabilitation *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://web.cvent.com/event/6281ec7d-5675-4051-82a6-8239c7d27f45/summary
-- **2026-06-24** — Breaking the Ice: Clinical Assessment, Rehabilitation and Performance Optimization for Figure Skaters *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://web.cvent.com/event/52a6dfbb-51ca-4a46-8a3d-f4b880b23cc3/summary
-- **2026-07-11** — FRC® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
-  - https://functionalanatomyseminars.com/event-registration/?ee=1075
-- **2026-07-23** — Spinal Manipulation with Philip Tehan *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://www.cvent.com/c/src/ca22f622-4d21-4807-bc85-8dbdcdfefe83/summary
-- **2026-07-31** — 2026-2027 USC Ortho PT Seminar Series: Guidelines-based Management of Common Musculoskeletal Disorders *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://web.cvent.com/event/0300a9f1-1bec-4835-8ec7-9a9ad8a4453a/summary
-- **2026-08-07** — 2026-2027 USC PT Sports Seminar Series *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://web.cvent.com/event/eeeb1797-58e8-4955-b4bc-4110a3ab8f90/summary
-- **2026-08-22** — FRA® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
-  - https://functionalanatomyseminars.com/event-registration/?ee=1081
-- **2026-09-12** — FR® Lower Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
-  - https://functionalanatomyseminars.com/event-registration/?ee=1070
-- **2026-09-12** — Non-Therapist FR® Lower Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
-  - https://functionalanatomyseminars.com/event-registration/?ee=1071
-- **2026-09-15** — Active Release Techniques (ART): Advanced Full Body Online *(Active Release Techniques)* — Online Seminar
-  - https://education.activerelease.com/p/active-release-techniques-art-advanced-full-body-online?instance=68911b60d95da2421003897d
-- **2026-09-19** — Active Release Techniques (ART): Advanced Full Body *(Active Release Techniques)* — Urijah Faber's Ultimate Fitness Gym 6700 Folsom Blvd Sacramento, CA
-  - https://education.activerelease.com/p/active-release-techniques-art-advanced-full-body?instance=69bda1dc6dddb5518f0b2590
-- **2026-09-25** — USC Spine Rehabilitation Seminar Series *(USC Division of Biokinesiology and Physical Therapy)* — Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033
-  - https://cvent.me/Q5Lvmv
-- **2026-10-03** — FR® Upper Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
-  - https://functionalanatomyseminars.com/event-registration/?ee=1072
-- **2026-10-03** — Non-Therapist FR® Upper Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
-  - https://functionalanatomyseminars.com/event-registration/?ee=1073
-- **2026-11-14** — Level 1 & Level 2 Package *(Integrated Movement Health / Cup Therapy)* — Laguna Niguel, CA
-  - https://www.cuptherapy.com/product-page/laguna-niguel-ca-level-1-level-2-package
-- **2026-12-05** — SFMA Level 1 - Certification *(Functional Movement Systems (FMS))* — Coronado, CA
-  - https://www.functionalmovement.com/events
-- **2027-01-14** — Advanced DNS Skill Class: Kinesiological Analysis of Developmental Exercises *(DNS / Prague School of Rehabilitation)* — Pasadena, CA
-  - course.php?c_id=4039
-- **2027-05-16** — Sports Movement Analysis: Cycling, Running, Lifting / Weight Training *(Agile Physical Therapy)* — Agile PT, 3825 El Camino Real, Palo Alto, CA 94306
+- **2026-07-01** — The PT’s Guide to Muscle Preservation in the Age of GLP-1s (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-07-08** — The Ringing in My Ears is Driving Me Crazy: The Physiology and Recommended Treatment for Tinnitus (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-07-15** — Lifestyle Medicine for Condition Management (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-07-22** — Beyond the Prompt: Understanding and Working with AI Assistants in Rehabilitation Practice (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-07-25** — Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-07-29** — Wearable Technology & AI in Falls Prevention: A New Model for Dementia Care (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-08-12** — Pain Neuroscience in Acute Pain – Overlooked Opportunities (Online via Zoom) *(California Physical Therapy Association (CPTA))* — LIVE Webinar
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-08-16** — Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-09-01** — Chest Wall Development in Infancy and Beyond: What to Watch and When to Worry (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-09-19** — CPTA Annual Conference *(California Physical Therapy Association (CPTA))* — DoubleTree by Hilton San Jose
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-09-19** — Kinstretch® Level 1 Certification Seminar (WORLDWIDE) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1087
+- **2026-10-17** — Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-10-18** — Blood Flow Restriction Certification *(Integrated Movement Health / Cup Therapy)* — San Francisco, CA
+  - https://www.cuptherapy.com/product-page/phoenix-az-blood-flow-restriction-certification
+- **2026-10-24** — A Movement Approach to Treating the Injured Runner (Lecture) (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-11-07** — A Movement Approach to Treating the Injured Runner (Lab) *(California Physical Therapy Association (CPTA))* — In Person: Movement Performance Institute, El Segundo, CA
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-11-14** — Non-Therapist FR® Spine Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1089
+- **2026-11-14** — FR® Spine Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))* — ONLINE SEMINAR
+  - https://functionalanatomyseminars.com/event-registration/?ee=1088
+- **2026-11-16** — When Reflux Comes Up, EVERYTHING is Affected (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-11-21** — Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-12-04** — LINKED: Breathing & Postural Control, Part 1 (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2026-12-12** — Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom) *(California Physical Therapy Association (CPTA))* — Online via ZOOM
+  - https://www.ccapta.org/page/CPTACourses
+- **2027-01-29** — DNS Strength Training Course "Part I" *(DNS / Prague School of Rehabilitation)* — Pasadena, CA
+  - course.php?c_id=4120
+- **2027-06-13** — Sports Movement Analysis: Soccer / Cutting, Golf, Overhead Athletes *(Agile Physical Therapy)* — Agile PT, 3825 El Camino Real, Palo Alto, CA 94306
   - https://agilept.com/education/continuing-education/
 
-## 🟡 Changed (2)
+## 🔴 Removed / no longer listed (14)
 
-- **2026-06-13** — FR® Spine Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-  - `url`: 'https://functionalanatomyseminars.com/event-registration/?ee=1063' → 'https://functionalanatomyseminars.com/seminars/find-a-seminar/'
 - **2026-06-13** — Non-Therapist FR® Spine Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-  - `url`: 'https://functionalanatomyseminars.com/event-registration/?ee=1064' → 'https://functionalanatomyseminars.com/seminars/find-a-seminar/'
-
-## 🔴 Removed / no longer listed (199)
-
-- **** — Exercise Prescription for the Acute Care and Inpatient Therapist *(PT Solutions Physical Therapy)*
-- **** — Certified Office Ergonomics Specialist (COESp) *(Worksite International, Inc.)*
-- **2026-12-07** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)*
-- **** — Torticollis, Tongue Tie, and Infant Feeding *(The Lactation OT LLC)*
-- **** — Pelvic Floor Consideration for Lactation *(The Lacation OT)*
-- **** — TMR Level 3 *(Total Motion Release (TMR) Seminars)*
-- **** — Performing Arts Enhancements Essentials-1 *(Pilates Tehrapeutics)*
-- **** — L1 Online Certification Course *(Titleist Performance Institute)*
-- **** — Medical 2 Online Certification Course *(Titleist Performance Institute)*
-- **** — When the Feet Hit the Ground…Everything Changes *(When the Feet Hit the Ground)*
-- **** — Identifying Manual Wheelchair Best Practice in the Continuum of Care *(Permobil Academy)*
-- **** — Foot Management Essentials-1 *(Pilates Tehrapeutics)*
-- **2026-06-13** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — Positive Spin On Diziness *(Re+Active Physical Therapy and Wellness)*
-- **2026-05-15** — PNF: Functional Neuromuscular and Motor Control *(Institute of Physical Art (IPA))*
-- **2026-05-30** — FRA® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-- **** — Daily Difference with Diabetes *(Humana, Inc.)*
-- **2026-08-22** — Movement Link Series *(Movement Links, Inc.)*
-- **** — Mindful Care: Therapy Implementation *(Therapy Management Corporation)*
-- **** — Kaatsu and Traditional BFR *(Kaatsu Education)*
-- **** — Peds 1: Treatment of Bowel and Bladder Disorders: Evaluation and Treatment of Dysfunctional Voiding, Bedwetting, and Constipation *(DSD PT Consulting, PLCC)*
-- **** — Motor Learning Applied to the Upper Extremity *(Nexus Motion)*
-- **2026-10-31** — TMR Level 7 *(Total Motion Release (TMR) Seminars)*
-- **** — Brain Injury 201 *(Select Medical)*
-- **** — Wheelchair Postural Supports: How to Optimize Stability and Alignment in a Wheelchair System *(Permobile Academy)*
-- **** — Tongue Tie, Breastfeeding, and the Lactation Savvy Therapist *(The Lactation OT LLC)*
-- **2026-06-15** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)*
-- **2026-09-26** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — Cardiovascular Disease and Mobility: The Heart *(Healthcare Academy)*
-- **** — Duchenne Musuclare Dystrophy: Current Understanding and Treatment *(CureDuchenne)*
-- **** — Pressure, Posture & Performance: An Approach to Pelvic Floor Dysfunction *(Kathe Wallace Physical Therapy dba Pelvic Resources)*
-- **** — Understanding Hemophilia *(University of Nebraska)*
-- **** — Accommodate or Correct? A Comparison of What You are Trying to Accomplish When the Postural Abnormality is Reducible Versus Non-reducible *(Permobile Academy)*
-- **** — Skin Protection Cushions:Understanding the Principles of Immersion and Envelopment vs Offloading and the Importance of Cushion Medium and Geometry. *(Permobile Academy)*
-- **** — California Early Detection of CP and Hammersmith Infant Neurological Exam Training *(Play ExploreLearn Therapy and Toys, LLC)*
-- **** — Introduction to Shoulder Dysfunctions *(International Academy of Orthopedic Medicine)*
-- **2026-11-09** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)*
-- **** — Brain Injury 101 *(Select Medical)*
-- **** — Evaluating and Treating the Arthritic Joint *(Healthcare Academy)*
-- **2026-05-16** — Sports Movement Analysis: Cycling, Running, Lifting / Weight Training *(Agile Physical Therapy)*
-- **** — TMR Intro - Basic Concepts of Total Motion Release *(Total Motion Release (TMR) Seminars)*
-- **** — Improving Functional Performance of Medically Complex Persons *(Healthcare Academy)*
-- **** — High-Intensity Rehabilitation in Medically Complex Populations *(University of Colorado School of Medicine Physical Therapy Program)*
-- **** — The Aging Skin: Understanding Skin Changes that Make Our Elderly Clients More Susceptible to Breakdown, Common Areas of Wound Development, and Stages of Pressure Injuries *(Permobile Academy)*
-- **2026-05-27** — Motor Learning Applied to the Upper Extremity *(Nexus Motion)*
-- **** — Vestibular Rehabilitation II Certification Renewal *(The American Institue of Balance)*
-- **2026-10-03** — FR® Lower Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-- **** — Spinal Cord Injury 201 *(Select Medical)*
-- **** — Clinical Driver Evaluations *(Clinical Driver Evaluations)*
-- **** — A Comprehensive View of Dementia *(Healthcare Academy)*
-- **** — Brain Injury 301 *(Select Medical)*
-- **** — TMR Level 5 *(Total Motion Release Seminars)*
-- **2026-05-17** — Level 2 Advanced with MFD Precision Pump *(Integrated Movement Health / Cup Therapy)*
-- **** — Senior Home Safety Specialist *(Age Safe Inc.)*
-- **** — Determining Medical Neeed for Adult Manual Wheelchairs *(The Periscope Group)*
-- **** — TMR Level 4 *(Total Motion Release Seminars)*
-- **** — A Positive Spin on Dizziness 2.0 *(Re+Active Physical Therapy and Wellness)*
-- **** — Peds Level 2: Advanced Pedicatric Bowel and Bladder Disorders: Evaluation and Treatment of Complex Bowel and Bladder Disorders Using a Whole-Body Approach *(DSD PT Consulting, PLCC)*
-- **** — Keeping Hearts at Home: Oreientaion and New Hire *(Humana inc./CenterWell Home Health)*
-- **2026-06-06** — Mobilization of the Cervical and Thoracic Spine and Ribs *(Great Lakes Seminars (GLS))*
-- **2026-06-07** — SomaTherapy: 2-3: 2TLS - Upper Limbs *(SomaVOYER)*
-- **** — TMR Tots Level 1 *(Total Motion Release (TMR) Seminars)*
-- **** — PRIME Wound Care *(Humana inc./CenterWell Home Health)*
-- **** — Clinical Management of the Rock Climbing Athlete: Finger Injuries *(The Climb Clinic, LLC)*
-- **** — Abnormal Posture in the Wheelchair System: Identifying the Cause *(Permobile Academy)*
-- **** — webFCE Health Risk Assessment Certification Course *(webFCE)*
-- **** — CA AB 1172 Behavior Training *(LearnScaped LLC)*
-- **** — Survivor Gap Essentials 1 *(Pilates Tehrapeutics)*
-- **** — Lynda Huey's Aquatic Rehab Online Course (AROC) *(Huey's Athletic Network)*
-- **** — Challenges to Seating and Positioning: Common Seating Misconceptions that Get in the Way *(Permobile Academy)*
-- **2026-07-25** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **2026-10-10** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — The Pelvic Floor, the Diaphra, the Core and their Role in Postural Development in Children *(DSD Consulting, PLCC)*
-- **** — Concussion Management II *(The American Institute of Balance)*
-- **** — Fall Risk Assessment Certification Course *(webFCE)*
-- **2026-08-22** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — Joint Replacement Rehabilitation *(Healthcare Academy)*
-- **2026-11-07** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **2026-12-10** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — TMR Tots Level 3 *(Total Motion Release (TMR) Seminars)*
-- **2026-09-12** — Enhanced Recovery After Delivery® Grow an OB Rehab Program in the Hospital and Home after Birth *(Enhanced Recovery and Wellness)*
-- **** — Musculoskeletal Ultrasound Training for Arthritic Conditions: Ankle, Knee, and Elbow-Online Course *(Annette Von Drygalski)*
-- **** — Choosing the Apporpriate Wheelchair Back Support *(Permobile Academy)*
-- **** — Pelvic Floor Support Systems: Advanced Anatomy, Assessment & Treatment for Prolapse & Postnatal Clients *(Kathe Wallace Physical Therapy dba Pelvic Resources)*
-- **** — Cardiac Disease and Mobility: Therapeutic Impact *(Healthcare Academy)*
-- **** — Shoulder Biomechanics: Relative Flexibility and Stiffness *(Nexus Motion)*
-- **** — Cardiovascular Disease and Mobility: Therapeutic Impact *(Healthcare Academy)*
-- **** — Vestibular Rehabilitation II Certification *(The American Institute of Balance)*
-- **** — MWC Configuration & Power Assist - Tools to Maximize Outcomes *(Permobil Academy)*
-- **** — Evidence in Action: A Knowledge Translation Course 2026 *(Rehab RoundUP)*
-- **** — Hybrid Vestibular Rehabilitation & Concussion Certification *(The American Institute of Balance)*
-- **2026-10-07** — Musculoskeletal Ultrasound Training: Hip, Shoulder, and Spine *(UC San Diego Health)*
-- **** — Vestibular Rehabilitation & Concussion Certification Renewal *(The American Institue of Balance)*
-- **** — Spinal Cord Injury 101 *(Select Medical)*
-- **2026-08-07** — The Whole Health Framework: Practice Tools for Effectively Treating Pain *(Holistic Health PT)*
-- **** — Bridge the Gap Optimal Spine Health *(KimeU by Kime Performance)*
-- **** — Stroke 201 *(Select Medical)*
-- **** — Multidisciplinary Fall Risk Management *(Humana, Inc.)*
-- **** — Limb Loss 101 *(Select Medical)*
-- **** — Emergency Medical Responder Certification for the Sport Clinician *(Ann DeGrey)*
-- **** — TMR Intro Web Class *(Total Motion Release (TMR) Seminars)*
-- **** — TMR Level 2 *(Total Motion Release (TMR) Seminars)*
-- **** — Bridge the Gap Optimal Knee Health *(KimeU by Kime Performance)*
-- **** — Clinical Running Essentials *(Christopher Johnson PT)*
-- **** — Bodywork for Babies *(Lauren Brim)*
-- **** — Movement System Syndromes of Lumbar Spine *(Nexus Motion)*
-- **2026-05-15** — FMUT: Functional Mobilization Upper Trunk *(Institute of Physical Art (IPA))*
-- **** — The Hip Joint - Arthroplasty and Fracture *(Humana, Inc.)*
-- **** — Physical Therapy and Comprehensive Care *(University of Nebraska Medical Center)*
-- **** — Industrial Ergonomics Evaluator Certification Course *(Occupuro)*
-- **** — Spinal Asymmetry and Scoliosis Essentials *(Pilates Therapeutics)*
-- **** — EduCross Clinical Diploma in Physical Therapy *(EduCross International)*
-- **2026-07-30** — Dynamic Neuromuscular Stabilization Pediatrics Part 2 *(Movement Links, Inc.)*
-- **2026-05-20** — Dementia Deep Dive: Make Care Make Sense *(Ensign Services, Inc.)*
-- **2026-10-06** — Musculoskeletal Ultrasound Training: Elbow, Knee, Ankle, and JADE Protocol *(UC San Diego Health)*
-- **** — Bridge the Gap Optimal Shoulder Health *(KimeU by Kime Performance)*
-- **** — The Intersections of Burnout, Self-Care, and Social Justice *(The Self-Care Institute)*
-- **** — Introduction to Stroke 101 *(Select Medical)*
-- **2026-06-18** — Applied Mindfulness for PTs *(Nexus Physical Therapy and Wellness, Inc.)*
-- **2026-09-12** — Non-Therapist FR® Upper Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-- **** — Cardiac Rehabilitation Principles *(Healthcare Academy)*
-- **** — Low Back Pain: Evaluation and Treatment *(Healthcare Academy)*
-- **** — Identifying Power Wheelchair Best Practice in the Continuum of Care *(Permobil Academy)*
-- **** — Stroke 101 *(Select Medical)*
-- **** — Three Extrinsic Factors of Wound Development: Taking a Deeper Look *(Permobile Academy)*
-- **** — Neuromuscular Activation Patterns Affecting the Shoulder Girdle *(Nexus Motion)*
-- **2026-05-16** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — Safe Strides: A Systems-Based Approach to Fall Risk Management *(Humana, Inc.)*
-- **** — TMR Level 1 *(Total Motion Release (TMR) Seminars)*
-- **** — Clinical Acuman - Deppression *(Humana inc./CenterWell Home Health)*
-- **** — P.S. Understanding the Psychosocial Aspects of Persistent Pain *(Megan Steele, PT, DPT, PhD)*
-- **** — Gait Rehabilitation Specialist (GRS) Certification *(Mission Gait Foundation)*
-- **** — Balance and Vestibular Rehabilitation *(Healthcare Academy)*
-- **2026-06-06** — DNS Movement Performance Summit *(DNS / Prague School of Rehabilitation)*
-- **** — Lymphedema Therapy Certification *(Klose Training)*
-- **** — Rock Rehab Online Course Series *(The Climbing Doctor)*
-- **2026-08-10** — Applied Mindfulness for PTs *(Nexus Physical Therapy and Wellness, Inc.)*
-- **** — Seating and Positioning in Long Term Care: Why the Long Term Care Therapist MUST be Knowledeable in the Principles of Seating and Positioning *(Permobile Academy)*
-- **** — Choosing the Apporpriate Wheelchair System for the Resident with Cognitive Impairment *(Permobile Academy)*
-- **2026-06-27** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **2026-05-16** — Improving Functional Strategies in Individuals with Neurologic Diagnoses Across the Continuum of Care *(Long Beach South Bay District)*
-- **2026-05-16** — Level 1 with Full MFD Kit (SOLD OUT) *(Integrated Movement Health / Cup Therapy)*
-- **** — Total Knee Arthroplasty Standards of Practice *(Humana, Inc.)*
-- **** — Assessing and Treating Patients with Low Back Pain Self-Study *(PT Solutions Physical Therapy)*
-- **** — Applying Movement System Syndroms to Gait & Running Analysis *(Nexus Motion)*
-- **** — Loaded manuel Therapy Lower and Upper Extremity Onlinek Courses *(Loaded Manual Therapy)*
-- **** — Functional Capacity Evaluation Certification Course *(OccuPro)*
-- **** — Complex Case Masterclass *(Re+Active Physical Therapy and Wellness)*
-- **** — TMR Level 6 *(Total Motion Release (TMR) Seminars)*
-- **** — MFY Injury Prevention Certification: Research Based Asana to Heal Your Community *(Med Flow Yoga)*
-- **** — Musculoskeletal Ultrasound Training in Hemophilia Online Program *(Annette Von Drygalski)*
-- **** — Reducing Potentially Preventable Hospitalizations *(Humana inc./CenterWell Home Health)*
-- **2026-05-15** — FMUE: Functional Mobilization Upper Extremities *(Institute of Physical Art (IPA))*
-- **2026-11-21** — PWR!Moves Therapist Certification Workshop *(Parkinson Wellness Recovery)*
-- **** — Clinical Taping Certification Level I *(Weavo)*
-- **** — Cardiovascular Disease and Mobility: Disease Process *(Healthcare Academy)*
-- **** — Tendinopathy Rehab: Structured Frameworks and Practical Stategies *(TendinopathyRehab)*
-- **** — Pharmacology Reference for Therapists *(Select Medical)*
-- **** — Wheelchair Seating and Positioning Evaluation Tools *(Permobile Academy)*
-- **2026-10-08** — Imaging for Musculoskeletal Pathologies *(UC San Diego Health)*
-- **** — TMR Tots Level 2 *(Total Motion Release (TMR) Seminars)*
-- **** — Advanced Concepts in Running Injuries *(Montana Running Lab, LLC)*
-- **2026-10-03** — Non-Therapist FR® Lower Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-- **2026-05-30** — Bodily Relearning 2-Day Course *(San Jose District)*
-- **** — General Orthopedic Guidelines *(Humana, Inc.)*
-- **** — Wheelchair Interventions: Putting it All Together *(Permobil Academy)*
-- **** — Understanding the Geriatric Population: Risks Associated with Prolonged Sitting and Goals of a Therapist *(Permobile Academy)*
-- **2026-07-18** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)*
-- **** — TMR Level 5 *(Total Motion Release (TMR) Seminars)*
-- **** — Functional Capacity Evaluation Certification Course *(webFCE)*
-- **** — Wheelchair Interventions 101: The What, the Why, and the How *(Permobil Academy)*
-- **2026-09-12** — FR® Upper Limb Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-- **2026-05-16** — Evaluation and Treatment of the Lumbar Spine, Pelvis & Hip: An Evidence-Based Approach in Orthopedic Manual Physical Therapy *(John Seivert, PT, DPT, OCS, FAAOMPT)*
-- **2026-05-16** — FRC® Certification Seminar (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
-- **2026-07-06** — PNF Long Term Course *(Kaiser Foundation Rehabilitation Center)*
-- **** — LGBT Population in LTC: Understanding Needs *(Healthcare Academy)*
-- **** — Small Baby Care Specialist® Program *(EngageGrowThrive)*
-- **2026-05-16** — Level 1 with Full MFD Kit *(Integrated Movement Health / Cup Therapy)*
-- **** — Enhanced Recovery After Delivery® Grow an OB Rehab Program in the Hospital and Home after Birth *(Enhanced Recovery and Wellness)*
-- **2026-10-16** — Small Baby Class *(Children's Hospital Los Angeles)*
-- **2026-07-27** — Dynamic Neuromuscular Stabilization Scoliosis Therapy Training *(Movement Links, Inc.)*
-- **** — Kinesiopathology of Shoulder and Neck: Why Movement Matters! *(Nexus Motion)*
-- **** — Rehab of Common Shoulder Procedures *(Humana, Inc.)*
-- **** — Gait Rehabilitation - Core Concepts and Treatment Strategies *(Mission Gait Foundation)*
-- **** — Physical Therapy in the Care of Persons with Bleeding Disorders *(University of Nebraska Medical Center)*
-- **** — Making Power Wheelchairs Smarter: Exploring the Continuum of SMART Technology *(LUCI Mobility)*
-- **** — TMR Level 7 *(Total Motion Release (TMR) Seminars)*
-- **2026-08-31** — PWR!Moves Therapist Recertification Workshop - Freezing of Gait *(Parkinson Wellness Recovery)*
-- **** — Applications of Orthobiological Hacker for the Medical Professional *(Torrentia Medical Education)*
-- **** — Professional Integrity in the Age of AI: Ethics, Laws, and Regulatory Compliance for Health Educators and Clinicians *(Brainsmith, LLC)*
-- **** — TMR Level 4 *(Total Motion Release (TMR) Seminars)*
-- **** — Vestibular Rehabilitation Certification Renewal *(The American Institue of Balance)*
-- **** — NPI-Certified Posture Specialist *(National Posture Institute)*
-- **2027-03-26** — Building for the Future - Comprehensive Evaluation and Interview to Address the Equipment Needs of the Pediatric Client *(Abilities International Accessibility Conference)*
-- **** — PRIME Wounds for Therapy *(Humana, Inc.)*
-- **** — The Wheelchair Evaluation: Identifying Deficits, Seeking Solutions, Finding Function *(Permobil Academy)*
-- **** — A Comprehensive View of Alzheimer's Disease *(Healthcare Academy)*
-- **** — Life After Illness, Injury or Disability: Promoting Pychological Adjustment & Quality of Life *(Select Medical)*
-- **** — Hybrid Vestibular Rehabilitation Certification *(The American Institute of Balance)*
+- **2026-06-24** — Breaking the Ice: Clinical Assessment, Rehabilitation and Performance Optimization for Figure Skaters *(USC Division of Biokinesiology and Physical Therapy)*
+- **2026-06-12** — CFS: CoreFirst Strategies *(Institute of Physical Art (IPA))*
+- **2026-06-13** — PGP: The Pelvic Girdle Puzzle *(Institute of Physical Art (IPA))*
+- **2026-06-13** — Sports Movement Analysis: Soccer / Cutting, Golf, Overhead Athletes *(Agile Physical Therapy)*
+- **2026-06-12** — FMLE: Functional Mobilization Lower Extremities *(Institute of Physical Art (IPA))*
+- **2026-06-27** — KSC: Kinetic Shoulder Complex *(Institute of Physical Art (IPA))*
+- **2026-06-13** — Level 1 with Full MFD Kit *(Integrated Movement Health / Cup Therapy)*
+- **2026-06-14** — Level 2 Advanced with MFD Precision Pump *(Integrated Movement Health / Cup Therapy)*
+- **2026-06-20** — Provoking the Future: Rethinking Musculoskeletal Rehabilitation *(USC Division of Biokinesiology and Physical Therapy)*
+- **2026-06-13** — FR® Spine Certification (Worldwide) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
+- **2026-06-27** — Kinstretch® Level 1 Certification Seminar (WORLDWIDE) - ONLINE SEMINAR *(Functional Range Systems (FRS))*
+- **2026-06-13** — The World’s Game: Elite Soccer Athlete Soft Tissue Injury Rehabilitation *(USC Division of Biokinesiology and Physical Therapy)*
+- **2026-06-19** — DNS Pediatric Course Part 1 *(DNS / Prague School of Rehabilitation)*
