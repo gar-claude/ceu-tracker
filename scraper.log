@@ -196,3 +196,102 @@
 [2026-07-01 16:12:56]    wrote changes.md
 [2026-07-01 16:12:56] ==== Run done ====
 
+[2026-08-01 09:03:31] ==== Run start (providers: ALL) ====
+[2026-08-01 09:03:31] -- art (scrape_active_release) --
+[2026-08-01 09:03:35]    found 6 courses
+[2026-08-01 09:03:35]    6 within 365-day window
+[2026-08-01 09:03:35] -- barbell (scrape_barbell_rehab) --
+[2026-08-01 09:03:37]    found 2 courses
+[2026-08-01 09:03:37]    2 within 365-day window
+[2026-08-01 09:03:37] -- mulligan (scrape_mulligan) --
+[2026-08-01 09:03:39]    found 0 courses
+[2026-08-01 09:03:39]    0 within 365-day window
+[2026-08-01 09:03:39] -- cup (scrape_cup_therapy) --
+[2026-08-01 09:03:42]    found 15 courses
+[2026-08-01 09:03:42]    8 within 365-day window
+[2026-08-01 09:03:42] -- agile (scrape_agile_pt) --
+[2026-08-01 09:03:44]   Agile PT: parsed 5 CA event(s)
+[2026-08-01 09:03:44]    found 5 courses
+[2026-08-01 09:03:44]    2 within 365-day window
+[2026-08-01 09:03:44] -- cpta (scrape_cpta) --
+[2026-08-01 09:03:47]   static fetch got 403 on https://www.ccapta.org/page/CPTACourses; retrying with Playwright...
+[2026-08-01 09:03:51]   CPTA: parsed 14 course entries from CPTACourses page
+[2026-08-01 09:03:53]   static fetch got 403 on https://www.ccapta.org/; retrying with Playwright...
+[2026-08-01 09:03:57]    found 15 courses
+[2026-08-01 09:03:57]    15 within 365-day window
+[2026-08-01 09:03:57] -- ucsf (scrape_ucsf) --
+[2026-08-01 09:04:00]    found 1 courses
+[2026-08-01 09:04:00]    0 within 365-day window
+[2026-08-01 09:04:00] -- pri (scrape_pri) --
+[2026-08-01 09:04:15]    found 3 courses
+[2026-08-01 09:04:15]    3 within 365-day window
+[2026-08-01 09:04:15] -- ipa (scrape_ipa) --
+[2026-08-01 09:04:15]    found 26 courses
+[2026-08-01 09:04:15]    16 within 365-day window
+[2026-08-01 09:04:15] -- gls (scrape_great_lakes) --
+[2026-08-01 09:04:15]    found 2 courses
+[2026-08-01 09:04:15]    1 within 365-day window
+[2026-08-01 09:04:15] -- hw (scrape_herman_wallace) --
+[2026-08-01 09:04:15]    found 1 courses
+[2026-08-01 09:04:15]    1 within 365-day window
+[2026-08-01 09:04:15] -- wilk (scrape_wilk) --
+[2026-08-01 09:04:15]    found 0 courses
+[2026-08-01 09:04:15]    0 within 365-day window
+[2026-08-01 09:04:15] -- vestibular (scrape_vestibular) --
+[2026-08-01 09:04:15]    found 1 courses
+[2026-08-01 09:04:15]    1 within 365-day window
+[2026-08-01 09:04:15] -- fms (scrape_fms) --
+[2026-08-01 09:04:15]   FMS: rendering with Playwright (headless Chromium, triggering events search)...
+[2026-08-01 09:04:16]     FMS form: country='US', distance='1000'
+[2026-08-01 09:04:16]     FMS form: pageSize='set-200', submit='clicked', events_read AJAX completed
+[2026-08-01 09:04:19]   FMS: rendered HTML (126923 chars) — parsing...
+[2026-08-01 09:04:19]   [DEBUG] dumped 126,923-char response to /home/runner/work/ceu-tracker/ceu-tracker/debug/fms_rendered.html
+[2026-08-01 09:04:19]   FMS: parsed 2 CA event(s) from playwright HTML (cards=2, tables=0, total-list-items=9)
+[2026-08-01 09:04:19]    found 2 courses
+[2026-08-01 09:04:19]    2 within 365-day window
+[2026-08-01 09:04:19] -- amsi (scrape_amsi) --
+[2026-08-01 09:04:30]   AMSI: parsed 90 dated entries across 5 product pages
+[2026-08-01 09:04:30]    found 90 courses
+[2026-08-01 09:04:30]    dropped 90 out-of-region courses
+[2026-08-01 09:04:30]    0 within 365-day window
+[2026-08-01 09:04:30] -- aamt (scrape_aamt) --
+[2026-08-01 09:04:32]   AAMT: parsed 3 upcoming seminar(s) (text-walk=3)
+[2026-08-01 09:04:32]    found 3 courses
+[2026-08-01 09:04:32]    dropped 3 out-of-region courses
+[2026-08-01 09:04:32]    0 within 365-day window
+[2026-08-01 09:04:32] -- eldoa (scrape_eldoa) --
+[2026-08-01 09:04:34]   ELDOA/SomaVOYER: parsed 9 entries from somavoyer.com/course-calendar
+[2026-08-01 09:04:39]   ELDOA: eldoa.com seminars page returned content; verify manually
+[2026-08-01 09:04:39]    found 13 courses
+[2026-08-01 09:04:39]    8 within 365-day window
+[2026-08-01 09:04:39] -- ne_seminars (scrape_northeast_seminars) --
+[2026-08-01 09:04:44]   Northeast Seminars: 0 CA-area events on current public pages (Wilk 2026 is NY + Natick MA only; verify Mulligan/BFRT pages if you want a wider trawl)
+[2026-08-01 09:04:44]    found 0 courses
+[2026-08-01 09:04:44]    0 within 365-day window
+[2026-08-01 09:04:44] -- frs (scrape_frs) --
+[2026-08-01 09:04:48]   FRS: parsed 11 CA in-person event(s)
+[2026-08-01 09:04:48]    found 11 courses
+[2026-08-01 09:04:48]    11 within 365-day window
+[2026-08-01 09:04:48] -- painfree (scrape_painfree) --
+[2026-08-01 09:04:50]   Pain Free Training: 0 CA live events in static HTML. The events page appears to be JavaScript-rendered (only on-demand products visible). Check https://painfreetraining.com/events/ in a browser; add confirmed CA dates to SEED_PAINFREE in this function.
+[2026-08-01 09:04:50]    found 0 courses
+[2026-08-01 09:04:50]    0 within 365-day window
+[2026-08-01 09:04:50] -- dns (scrape_dns) --
+[2026-08-01 09:04:53]   DNS: found 278 course-anchor links, regex matched 278; 13 match California
+[2026-08-01 09:04:53]    found 23 courses
+[2026-08-01 09:04:53]    dropped 1 out-of-region courses
+[2026-08-01 09:04:53]    16 within 365-day window
+[2026-08-01 09:04:53] -- usc (scrape_usc) --
+[2026-08-01 09:04:56]   USC: parsed 4 in-radius courses from https://pt.usc.edu/upcoming-courses/
+[2026-08-01 09:04:56]    found 4 courses
+[2026-08-01 09:04:56]    3 within 365-day window
+[2026-08-01 09:04:56] -- cpta_approved (scrape_cpta_approved_list) --
+[2026-08-01 09:04:56]   cpta_approved: cpta_approved_courses.json not found — skip (this is fine if you haven't imported the official CPTA list yet).
+[2026-08-01 09:04:56]    found 0 courses
+[2026-08-01 09:04:56]    0 within 365-day window
+[2026-08-01 09:04:56] == Total after dedup: 95 ==
+[2026-08-01 09:04:56] == Diff: +10 added, ~0 changed, -23 removed ==
+[2026-08-01 09:04:56]    wrote courses_current.md (95 courses)
+[2026-08-01 09:04:56]    wrote changes.md
+[2026-08-01 09:04:56] ==== Run done ====
+
