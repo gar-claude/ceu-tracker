@@ -1,18 +1,4 @@
 {
-  "007c2090ce2a": {
-    "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
-    "course_id": "007c2090ce2a",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-23",
-    "location": "San Diego, CA",
-    "notes": "DNS = Dynamic Neuromuscular Stabilization (Kolar method). International curriculum; US courses run by certified DNS instructors. CA PT CEU via self-submission.",
-    "provider": "DNS / Prague School of Rehabilitation",
-    "pt_attendable": true,
-    "pt_ceus": "yes (self-submit syllabus to CA PTBC)",
-    "start_date": "2026-08-21",
-    "title": "Skills Course in Viscero-Somatic Patterns",
-    "url": "course.php?c_id=4004"
-  },
   "02d71199429b": {
     "audience": "PT, PTA, students",
     "course_id": "02d71199429b",
@@ -55,20 +41,6 @@
     "title": "Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom)",
     "url": "https://www.ccapta.org/page/CPTACourses"
   },
-  "0d506909291b": {
-    "audience": "PT, PTA, students",
-    "course_id": "0d506909291b",
-    "discovered_at": "2026-08-01T09:04:56",
-    "end_date": "2026-08-19",
-    "location": "Online via ZOOM",
-    "notes": "CPTA-provided CE \u2014 CERS-approved for CA PTs.",
-    "provider": "California Physical Therapy Association (CPTA)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-19",
-    "title": "Emerging Perspectives in Stroke Recovery: Motor Learning, Feedforward Motor Control, and Community Mobility (Online via Zoom)",
-    "url": "https://www.ccapta.org/page/CPTACourses"
-  },
   "0e95449ee9b9": {
     "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
     "course_id": "0e95449ee9b9",
@@ -97,19 +69,19 @@
     "title": "AIB Vestibular Competency-Based Certification (in-person component)",
     "url": "https://www.dizzy.com/"
   },
-  "15d6c580fb77": {
-    "audience": "PT, ATC, LMT, PTA, OT, MD, DO, LAc",
-    "course_id": "15d6c580fb77",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "",
-    "location": "San Francisco, CA",
-    "notes": "Provider lists CA PT board reciprocity (CERS-route); FSBPT-credentialed in most states. Verify level (L1/L2/BFR) and hours on product page.",
-    "provider": "Integrated Movement Health / Cup Therapy",
+  "16125a2ebe5b": {
+    "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
+    "course_id": "16125a2ebe5b",
+    "discovered_at": "2026-09-01T12:21:37",
+    "end_date": "2027-08-29",
+    "location": "Pasadena, CA",
+    "notes": "DNS = Dynamic Neuromuscular Stabilization (Kolar method). International curriculum; US courses run by certified DNS instructors. CA PT CEU via self-submission.",
+    "provider": "DNS / Prague School of Rehabilitation",
     "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-05",
-    "title": "SFGH: Fresh Cadaver Investigation of the Upper Quarter and Trunk w/ Carla Stecco",
-    "url": "https://www.cuptherapy.com/product-page/sfgh-fresh-cadaver-investigation-of-the-upper-quarter-and-trunk-w-carla-stecco"
+    "pt_ceus": "yes (self-submit syllabus to CA PTBC)",
+    "start_date": "2027-08-28",
+    "title": "Basic course \"A\"",
+    "url": "course.php?c_id=4041"
   },
   "17725e538f99": {
     "audience": "PT, ATC, LMT, PTA, OT, MD, DO, LAc",
@@ -124,20 +96,6 @@
     "start_date": "2026-11-15",
     "title": "Level 2 Advanced with MFD Precision Pump",
     "url": "https://www.cuptherapy.com/product-page/laguna-niguel-ca-level-2-advanced-with-mfd-precision-pump"
-  },
-  "178e11880baf": {
-    "audience": "PT, PTA",
-    "course_id": "178e11880baf",
-    "discovered_at": "2026-06-12T06:52:12",
-    "end_date": "2026-12-12",
-    "location": "Center for Health Professions, 1540 Alcazar Street, Los Angeles, CA 90033",
-    "notes": "PTBC-recognized provider (USC Div. of Biokinesiology and PT). 0.7 (7 contact hours)",
-    "provider": "USC Division of Biokinesiology and Physical Therapy",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-07",
-    "title": "2026-2027 USC PT Sports Seminar Series",
-    "url": "https://web.cvent.com/event/eeeb1797-58e8-4955-b4bc-4110a3ab8f90/summary"
   },
   "19b75b362cf8": {
     "audience": "PT, DC, ATC, MD (manual therapists only)",
@@ -194,34 +152,6 @@
     "start_date": "2026-10-30",
     "title": "Active Release Techniques (ART): Lower Extremity Level 1",
     "url": "https://education.activerelease.com/p/active-release-techniques-art-lower-extremity-level-1?instance=695c1f6cb120b873270b1742"
-  },
-  "26f6fd3b5246": {
-    "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
-    "course_id": "26f6fd3b5246",
-    "discovered_at": "2026-06-12T06:52:12",
-    "end_date": "2026-08-22",
-    "location": "ONLINE SEMINAR",
-    "notes": "Dr. Andreo Spina's FRS curriculum. Many events are online (filtered out here). Most in-person CA dates run as private host events; check the public calendar if a CA seminar appears.",
-    "provider": "Functional Range Systems (FRS)",
-    "pt_attendable": true,
-    "pt_ceus": "varies \u2014 verify per course page",
-    "start_date": "2026-08-22",
-    "title": "FRA\u00ae Certification Seminar (Worldwide) - ONLINE SEMINAR",
-    "url": "https://functionalanatomyseminars.com/event-registration/?ee=1081"
-  },
-  "2890054dda56": {
-    "audience": "PT, DC, ATC, MD/DO",
-    "course_id": "2890054dda56",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-15",
-    "location": "Sheraton San Diego Resort 1380 Harbor Island Dr San Diego, CA",
-    "notes": "CA is on ART's approved-state list; verify exact CE hours on registration page.",
-    "provider": "Active Release Techniques",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-14",
-    "title": "Active Release Techniques (ART): Fascia Seminar",
-    "url": "https://education.activerelease.com/p/fascia?instance=695d756aeb45b1947304e6fb"
   },
   "30b4470c09b8": {
     "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
@@ -377,20 +307,6 @@
     "title": "FM I: Functional Mobilization I",
     "url": "https://instituteofphysicalart.com/scheduled-courses/"
   },
-  "4a285ba6db99": {
-    "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
-    "course_id": "4a285ba6db99",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-30",
-    "location": "Pasadena, CA",
-    "notes": "DNS = Dynamic Neuromuscular Stabilization (Kolar method). International curriculum; US courses run by certified DNS instructors. CA PT CEU via self-submission.",
-    "provider": "DNS / Prague School of Rehabilitation",
-    "pt_attendable": true,
-    "pt_ceus": "yes (self-submit syllabus to CA PTBC)",
-    "start_date": "2026-08-29",
-    "title": "Basic course \"A\"",
-    "url": "course.php?c_id=3660"
-  },
   "502d56c8b2d5": {
     "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
     "course_id": "502d56c8b2d5",
@@ -404,34 +320,6 @@
     "start_date": "2026-11-06",
     "title": "ELDOA: ELDOA\u00ae 4",
     "url": "https://www.somavoyer.com/course-calendar"
-  },
-  "52f45a96a80f": {
-    "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
-    "course_id": "52f45a96a80f",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-30",
-    "location": "Pasadena, CA",
-    "notes": "DNS = Dynamic Neuromuscular Stabilization (Kolar method). International curriculum; US courses run by certified DNS instructors. CA PT CEU via self-submission.",
-    "provider": "DNS / Prague School of Rehabilitation",
-    "pt_attendable": true,
-    "pt_ceus": "yes (self-submit syllabus to CA PTBC)",
-    "start_date": "2026-08-29",
-    "title": "DNS Basic Course \"A\"",
-    "url": "https://www.rehabps.cz/rehab/co.php"
-  },
-  "53202d7ae05a": {
-    "audience": "PT, PTA, students",
-    "course_id": "53202d7ae05a",
-    "discovered_at": "2026-07-01T16:12:56",
-    "end_date": "2026-08-12",
-    "location": "LIVE Webinar",
-    "notes": "CPTA-provided CE \u2014 CERS-approved for CA PTs.",
-    "provider": "California Physical Therapy Association (CPTA)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-12",
-    "title": "Pain Neuroscience in Acute Pain \u2013 Overlooked Opportunities (Online via Zoom)",
-    "url": "https://www.ccapta.org/page/CPTACourses"
   },
   "533ce051aad9": {
     "audience": "PT, PTA (FMT system)",
@@ -460,20 +348,6 @@
     "start_date": "2026-12-10",
     "title": "SomaTraining: 3-2: Proprioception & Awareness",
     "url": "https://www.somavoyer.com/course-calendar"
-  },
-  "59087a65e603": {
-    "audience": "PT, ATC, LMT, PTA, OT, MD, DO, LAc",
-    "course_id": "59087a65e603",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-07",
-    "location": "San Francisco, CA",
-    "notes": "Provider lists CA PT board reciprocity (CERS-route); FSBPT-credentialed in most states. Verify level (L1/L2/BFR) and hours on product page.",
-    "provider": "Integrated Movement Health / Cup Therapy",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-06",
-    "title": "SFGH: Fresh Cadaver Dissection Lower Quarter and Lumbo-Pelvic w/ Carla Stecco",
-    "url": "https://www.cuptherapy.com/product-page/ucsf-fresh-cadaver-dissection-lower-extremity-amp-lower-trunk-pelvis"
   },
   "5e541447aaf1": {
     "audience": "PT, PTA, students",
@@ -545,6 +419,34 @@
     "title": "Advanced DNS Skill Class: Kinesiological Analysis of Developmental Exercises",
     "url": "course.php?c_id=4039"
   },
+  "657a8780c257": {
+    "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
+    "course_id": "657a8780c257",
+    "discovered_at": "2026-09-01T12:21:37",
+    "end_date": "2026-10-31",
+    "location": "ONLINE SEMINAR",
+    "notes": "Dr. Andreo Spina's FRS curriculum. Many events are online (filtered out here). Most in-person CA dates run as private host events; check the public calendar if a CA seminar appears.",
+    "provider": "Functional Range Systems (FRS)",
+    "pt_attendable": true,
+    "pt_ceus": "varies \u2014 verify per course page",
+    "start_date": "2026-10-31",
+    "title": "FRA\u00ae Certification Seminar (Worldwide) - ONLINE SEMINAR",
+    "url": "https://functionalanatomyseminars.com/event-registration/?ee=1093"
+  },
+  "684185a7148a": {
+    "audience": "PT and allied health",
+    "course_id": "684185a7148a",
+    "discovered_at": "2026-09-01T12:21:37",
+    "end_date": "",
+    "location": "UCSF 2001 The Embarcadero Suite 1100, San Francisco, CA 94143",
+    "notes": "UCSF DPT-hosted CE typically carries CA PT approval.",
+    "provider": "UCSF Department of PT & Rehab Science",
+    "pt_attendable": true,
+    "pt_ceus": "yes",
+    "start_date": "2026-09-11",
+    "title": "Department of Physical Therapy and Rehabilitation Science",
+    "url": "https://ptrehab.ucsf.edu/continuing-education"
+  },
   "69d8b53548fc": {
     "audience": "PT, PTA, OT, DC, ATC, S&C, LMT, Pilates instructors",
     "course_id": "69d8b53548fc",
@@ -586,20 +488,6 @@
     "start_date": "2026-10-31",
     "title": "KINSTRETCH\u00ae LEVEL II Certification (WORLDWIDE) - ONLINE SEMINAR",
     "url": "https://functionalanatomyseminars.com/event-registration/?ee=1068"
-  },
-  "82edc6b2bafd": {
-    "audience": "PT, PTA",
-    "course_id": "82edc6b2bafd",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-09",
-    "location": "Novato, CA",
-    "notes": "Approved for 16.5 CEUs in CA (CERS) and most other states by reciprocity.",
-    "provider": "Great Lakes Seminars (GLS)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-08",
-    "title": "An Introduction to Vestibular Rehabilitation",
-    "url": "https://glseminars.com/courses/view-schedule/"
   },
   "83832981cddf": {
     "audience": "PT, PTA",
@@ -811,34 +699,6 @@
     "title": "Myokinematic Restoration",
     "url": "https://www.posturalrestoration.com/courses/"
   },
-  "9f73dcb3e029": {
-    "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
-    "course_id": "9f73dcb3e029",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-16",
-    "location": "Seal Beach, CA",
-    "notes": "Cross-disciplinary movement education. CA PTs typically self-submit; NSCA CEUs are standard. Verify with the host instructor before registering.",
-    "provider": "ELDOA",
-    "pt_attendable": true,
-    "pt_ceus": "yes (self-submit; NSCA CEU-approved at minimum)",
-    "start_date": "2026-08-14",
-    "title": "ELDOA: ELDOA\u00ae 1&2 Combination",
-    "url": "https://www.somavoyer.com/course-calendar"
-  },
-  "a20c4a539b63": {
-    "audience": "PT, PTA (FMT system)",
-    "course_id": "a20c4a539b63",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-09",
-    "location": "San Francisco, CA",
-    "notes": "IPA courses count toward CFMT Certification and IPA Residency/Fellowship.",
-    "provider": "Institute of Physical Art (IPA)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-07",
-    "title": "VFM: Visceral Functional Mobilization",
-    "url": "https://instituteofphysicalart.com/scheduled-courses/"
-  },
   "a21f92776f0f": {
     "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
     "course_id": "a21f92776f0f",
@@ -852,34 +712,6 @@
     "start_date": "2026-10-02",
     "title": "DNS Basic Course \"B\"",
     "url": "https://www.rehabps.cz/rehab/co.php"
-  },
-  "a86d8d3ac952": {
-    "audience": "PT, DC, ATC, MD/DO",
-    "course_id": "a86d8d3ac952",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-16",
-    "location": "Sheraton San Diego Resort 1380 Harbor Island Dr San Diego, CA",
-    "notes": "CA is on ART's approved-state list; verify exact CE hours on registration page.",
-    "provider": "Active Release Techniques",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-14",
-    "title": "Active Release Techniques (ART): Lower Extremity Level 1",
-    "url": "https://education.activerelease.com/p/active-release-techniques-art-lower-extremity-level-1?instance=68d6c440c0a23201db0eda20"
-  },
-  "a999104c4526": {
-    "audience": "PT, PTA, OT, OTA, RN, NP, midwives",
-    "course_id": "a999104c4526",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-30",
-    "location": "Torrance, CA",
-    "notes": "Satellite format: remote lectures + hosted in-person lab. H&W publishes new satellite dates ~3-6 months out.",
-    "provider": "Herman & Wallace Pelvic Rehabilitation Institute",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-29",
-    "title": "Pelvic Function Level 2B (Satellite)",
-    "url": "https://hermanwallace.com/continuing-education-courses"
   },
   "a9e4704b9595": {
     "audience": "PT, PTA, students",
@@ -936,20 +768,6 @@
     "start_date": "2026-11-06",
     "title": "PNF: Functional Neuromuscular and Motor Control",
     "url": "https://instituteofphysicalart.com/scheduled-courses/"
-  },
-  "b3988f41b320": {
-    "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
-    "course_id": "b3988f41b320",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-23",
-    "location": "San Diego, CA",
-    "notes": "DNS = Dynamic Neuromuscular Stabilization (Kolar method). International curriculum; US courses run by certified DNS instructors. CA PT CEU via self-submission.",
-    "provider": "DNS / Prague School of Rehabilitation",
-    "pt_attendable": true,
-    "pt_ceus": "yes (self-submit syllabus to CA PTBC)",
-    "start_date": "2026-08-21",
-    "title": "DNS Skills Course in Viscero-Somatic Patterns",
-    "url": "https://www.rehabps.cz/rehab/co.php"
   },
   "b55b882fd1b3": {
     "audience": "PT, PTA (FMT system)",
@@ -1119,20 +937,6 @@
     "title": "Non-Therapist FR\u00ae Lower Limb Certification (Worldwide) - ONLINE SEMINAR",
     "url": "https://functionalanatomyseminars.com/event-registration/?ee=1071"
   },
-  "ccbed66cf340": {
-    "audience": "PT, PTA, students",
-    "course_id": "ccbed66cf340",
-    "discovered_at": "2026-08-01T09:04:56",
-    "end_date": "2026-08-04",
-    "location": "Online via ZOOM",
-    "notes": "CPTA-provided CE \u2014 CERS-approved for CA PTs.",
-    "provider": "California Physical Therapy Association (CPTA)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-04",
-    "title": "thinkTANK: Are we educating students for the real world? (Online via Zoom)",
-    "url": "https://www.ccapta.org/page/CPTACourses"
-  },
   "d81476959d88": {
     "audience": "PT, DC, MD, DO, ATC, manual therapists, S&C coaches",
     "course_id": "d81476959d88",
@@ -1161,20 +965,6 @@
     "title": "Pelvis Restoration",
     "url": "https://www.posturalrestoration.com/courses/"
   },
-  "dd1210fb7dad": {
-    "audience": "PT, PTA, students",
-    "course_id": "dd1210fb7dad",
-    "discovered_at": "2026-07-01T16:12:56",
-    "end_date": "2026-08-17",
-    "location": "Online via ZOOM",
-    "notes": "CPTA-provided CE \u2014 CERS-approved for CA PTs.",
-    "provider": "California Physical Therapy Association (CPTA)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-16",
-    "title": "Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom)",
-    "url": "https://www.ccapta.org/page/CPTACourses"
-  },
   "deea304816b3": {
     "audience": "PT, PTA, students",
     "course_id": "deea304816b3",
@@ -1187,20 +977,6 @@
     "pt_ceus": "yes",
     "start_date": "2026-12-12",
     "title": "Credentialed Clinical Instructor Program (CCIP) Level 1 (Online via Zoom)",
-    "url": "https://www.ccapta.org/page/CPTACourses"
-  },
-  "e3b7823180d0": {
-    "audience": "PT, PTA, students",
-    "course_id": "e3b7823180d0",
-    "discovered_at": "2026-08-01T09:04:56",
-    "end_date": "2026-08-05",
-    "location": "Online via ZOOM",
-    "notes": "CPTA-provided CE \u2014 CERS-approved for CA PTs.",
-    "provider": "California Physical Therapy Association (CPTA)",
-    "pt_attendable": true,
-    "pt_ceus": "yes",
-    "start_date": "2026-08-05",
-    "title": "Psychologically Informed Physical Therapy: Integrating Pain Neuroscience, Behavioral Science, and Clinical Communication for Better Outcomes (Online via Zoom)",
     "url": "https://www.ccapta.org/page/CPTACourses"
   },
   "e3bcf08d5357": {
@@ -1244,20 +1020,6 @@
     "start_date": "2026-09-15",
     "title": "Active Release Techniques (ART): Advanced Full Body Online",
     "url": "https://education.activerelease.com/p/active-release-techniques-art-advanced-full-body-online?instance=68911b60d95da2421003897d"
-  },
-  "eac1021ad13b": {
-    "audience": "PT, DC, ATC, S&C, Pilates, yoga, MD/DO",
-    "course_id": "eac1021ad13b",
-    "discovered_at": "2026-05-11T14:38:09",
-    "end_date": "2026-08-14",
-    "location": "Seal Beach, CA",
-    "notes": "Cross-disciplinary movement education. CA PTs typically self-submit; NSCA CEUs are standard. Verify with the host instructor before registering.",
-    "provider": "ELDOA",
-    "pt_attendable": true,
-    "pt_ceus": "yes (self-submit; NSCA CEU-approved at minimum)",
-    "start_date": "2026-08-14",
-    "title": "ELDOA: ELDOA\u00ae 1&2",
-    "url": "https://www.somavoyer.com/course-calendar"
   },
   "efef0e94686a": {
     "audience": "PT, PTA (FMT system)",
